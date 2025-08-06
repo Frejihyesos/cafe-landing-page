@@ -4,7 +4,6 @@
 
 **▶️ Посмотреть живую версию сайта:** [https://Frejihyesos.github.io/cafe-landing-page/](https://Frejihyesos.github.io/cafe-landing-page/)
 
-*(Не забудь заменить `Frejihyesos` на свой ник, если он другой)*
 
 ## ✨ Технологии и возможности
 
